@@ -4,4 +4,4 @@
 
 区分求積法で挟み撃ちの定理を用いる奴
 
-note.pdf/note.pngに詳細?を書いてある
+note.pdf or note.pngに詳細?を書いてある
